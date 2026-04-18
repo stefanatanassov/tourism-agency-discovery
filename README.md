@@ -1,34 +1,34 @@
-# Tourism Agency Discovery & Planning
+# Изясняване и планиране за туристическа агенция
 
-This repository supports the early discovery and planning process for a tourism agency digital project.
+Това repository поддържа ранния етап по изясняване и планиране на дигитален проект за туристическа агенция.
 
-It is intentionally lightweight and client-friendly.
+Направено е нарочно да бъде леко, ясно и удобно за споделяне с клиенти.
 
-## What this is
+## Какво представлява
 
-This is a shared planning space used to:
-- organize open questions
-- confirm scope
-- identify risks and dependencies
-- separate Phase 1 from later ideas
-- prepare a clean backlog for later implementation planning
+Това е споделено пространство за:
+- организиране на отворени въпроси
+- потвърждаване на обхват
+- отбелязване на рискове и зависимости
+- отделяне на Фаза 1 от по-късните идеи
+- подготовка на ясен backlog за следващия етап
 
-## What this is not
+## Какво не представлява
 
-This is not a development delivery repository yet.
-It does not represent a final implementation backlog or technical build plan.
+Това все още не е repository за изпълнение на разработка.
+Не представлява финален технически backlog или детайлен план за build phase.
 
-## Project board
+## Основен борд
 
-The main working view for this repository is the GitHub Project:
-[Tourism Agency Discovery & Planning](https://github.com/users/stefanatanassov/projects/4)
+Основният работен изглед е GitHub Project:
+[Изясняване и планиране за туристическа агенция](https://github.com/users/stefanatanassov/projects/4)
 
-## How to read the board
+## Как да се чете бордът
 
-- Inbox: raw items not yet processed
-- Needs clarification: items that still require answers or decisions
-- Confirmed: accepted scope not yet assigned to a phase
-- Planned for Phase 1: accepted for the first release stage
-- Planned for Later: valid but intentionally deferred
-- Blocked: waiting on information, access, or a dependency
-- Done: completed discovery or planning work
+- Входящи: сурови елементи, които още не са обработени
+- Нуждае се от уточнение: елементи, които все още изискват отговор или решение
+- Потвърдено: приет обхват, който още не е разпределен по фази
+- Планирано за Фаза 1: прието за първия етап
+- Планирано за по-късно: валидно, но отложено
+- Блокирано: чака информация, достъп или зависимост
+- Готово: приключени discovery или planning дейности
